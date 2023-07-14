@@ -7,7 +7,7 @@
 
 <div align="center"><h4> 👻 Portfolio • blog 👻</h4></div>
 <div align="center">
-<a href="https://on8april02.notion.site/resume-112034b2368746bfabce2855c8130548?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> <a href="https://velog.io/@on8april02"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
+<a href="https://on8april02.notion.site/on8april02-notion-site-4bba9ed84c6243bda0029eec7fde504e?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> <a href="https://velog.io/@on8april02"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
 </div>
 
 <div align="center"><h4>📊 Problem Solving 📊</h4></div>
