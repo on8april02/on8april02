@@ -18,5 +18,6 @@
 
 </div>
 
+<div align="center"> <b>contact to </b><a href="gjskdud0000@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=naver&logoColor=white"></div>
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FBC02D&height=150&section=footer"/>
